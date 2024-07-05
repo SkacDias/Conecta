@@ -3,7 +3,7 @@ import { Inter } from 'next/font/google';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Frontend Challenge',
+  title: 'Conecta Frontend Challenge',
 };
 
 interface RootLayoutProps {
