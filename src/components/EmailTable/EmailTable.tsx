@@ -1,4 +1,3 @@
-import TableRow from './TableRow';
 import { emailsData } from '@/data/emailsData';
 
 const EmailTable: React.FC = () => {
