@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
+import './email.css';
 
 export const metadata: Metadata = {
   title: 'Conecta Frontend Challenge',
@@ -19,4 +20,3 @@ const RootLayout: React.FC<Readonly<RootLayoutProps>> = ({ children }) => {
 };
 
 export default RootLayout;
-
