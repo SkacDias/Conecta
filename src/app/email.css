@@ -1,0 +1,12 @@
+.email-column {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 200px; 
+}
+
+.tooltip {
+  height: 3em;
+  width: 10em;
+  background: yellow;
+}
